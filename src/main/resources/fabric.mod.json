@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
-  "id": "meteor-client",
+  "name": "Zombie Client",
+  "id": "zombie-client",
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
@@ -10,10 +10,10 @@
     "seasnail"
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "homepage": "https://zombieclient.com",
+    "issues": "https://github.com/developerkha-prog/zombie-client",
+    "sources": "https://github.com/developerkha-prog/zombie-client",
+    "discord": "https://discord.gg/N3vyQkz9kC"
   },
   "license": "GPL-3.0",
   "icon": "assets/meteor-client/icon.png",
